@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Bienvenidos al primer supermercado de fondos!
 
-You can use the [editor on GitHub](https://github.com/Fondosonline/Fondos-Comunes-de-Inversion/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Es un buscandor de [Fondos Comunes de Inversion](https://fondosonline.com/) para comparar los rendimientos de los disntintos fondos y poder elegir entre ellos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+No es necesario contar con una gran cantidad de dinero, ya que se puede empezar con $10.000. Lo recomendable es arrancar con $20.000 para tener ganancias que valgan la pena.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Los pasos son:
+1. Abrir a cuenta en Bull Market Brokers
+2. Realizar la transferencia de fondos
+3. Con el asesoramiento de Bull Market vas a poder seleccionar el FCI que más se adapte a tu perfil de inversión
+4. Ver los rendimientos de la inversión desde la comodidad de tu casa
 
-```markdown
-Syntax highlighted code block
+Se puede elegir el fondo que más se adapte a vos desde un lista de más de 100 opciones, comparadas por su rendimiento. Las opciones del menú son fondos de renta variable (acciones), renta fija (bonos) o mixtos (una combinación de ambos).
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fondosonline/Fondos-Comunes-de-Inversion/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
